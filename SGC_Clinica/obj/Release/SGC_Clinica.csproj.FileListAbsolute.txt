@@ -1,0 +1,38 @@
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Release\SGC_Clinica.exe.config
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Release\SGC_Clinica.exe
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Release\SGC_Clinica.pdb
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Release\MetroFramework.dll
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Release\MetroFramework.Fonts.dll
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Release\MySql.Data.dll
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Release\System.Data.SqlServerCe.dll
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.span.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Frm_Cadastro_Funcionario.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Frm_Configuracao_BD.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Frm_Exame_simples.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Inicial_Clinica.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.modeloCadastro.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Properties.Resources.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.csproj.GenerateResource.Cache
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.exe
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.pdb
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.csprojResolveAssemblyReference.cache
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Release\SGC_Clinica.exe.config
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Release\SGC_Clinica.exe
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Release\SGC_Clinica.pdb
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Release\MetroFramework.dll
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Release\MetroFramework.Fonts.dll
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Release\MySql.Data.dll
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.csprojResolveAssemblyReference.cache
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.span.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Frm_Cadastro_Funcionario.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Frm_Configuracao_BD.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Frm_Consulta_cargo.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Frm_Consulta.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Frm_Exame_simples.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Inicial_Clinica.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.modeloCadastro.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.Properties.Resources.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.csproj.GenerateResource.Cache
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.exe
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Release\SGC_Clinica.pdb

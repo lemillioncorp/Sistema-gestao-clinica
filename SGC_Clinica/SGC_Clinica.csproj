@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39F4A142-92EA-4B72-826A-268E2AB4A23F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SGC_Clinica</RootNamespace>
+    <AssemblyName>SGC_Clinica</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft SQL Server Compact Edition\v4.0\Desktop\System.Data.SqlServerCe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm-Cadastro-Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm-Cadastro-Funcionario.Designer.cs">
+      <DependentUpon>Frm-Cadastro-Funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm-Configuracao-BD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm-Configuracao-BD.Designer.cs">
+      <DependentUpon>Frm-Configuracao-BD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm-Consulta-cargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm-Consulta-cargo.Designer.cs">
+      <DependentUpon>Frm-Consulta-cargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm-Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm-Consulta.Designer.cs">
+      <DependentUpon>Frm-Consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm-Exame-simples.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm-Exame-simples.Designer.cs">
+      <DependentUpon>Frm-Exame-simples.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicial_Clinica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicial_Clinica.Designer.cs">
+      <DependentUpon>Inicial_Clinica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modeloCadastro.Designer.cs">
+      <DependentUpon>modeloCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="operacao.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm-Cadastro-Funcionario.resx">
+      <DependentUpon>Frm-Cadastro-Funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm-Configuracao-BD.resx">
+      <DependentUpon>Frm-Configuracao-BD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm-Consulta-cargo.resx">
+      <DependentUpon>Frm-Consulta-cargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm-Consulta.resx">
+      <DependentUpon>Frm-Consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm-Exame-simples.resx">
+      <DependentUpon>Frm-Exame-simples.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicial_Clinica.resx">
+      <DependentUpon>Inicial_Clinica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloCadastro.resx">
+      <DependentUpon>modeloCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iCON.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Silky-Line-User-User2-add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Ios7-Very-Basic-Search.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Windows-8-Files-Edit-File.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %2817%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Windows-8-Files-Edit-File1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit %284%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Windows-8-Files-Edit-File2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %2817%29~1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Windows-8-Files-Edit-File3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %2814%29~1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %2811%29~1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %2817%291.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %2810%29~1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %289%29~1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carregando.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo - Copia.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all_reports-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raise-your-hand-to-ask %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %2816%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\099-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boy-raising-hand-for-question %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raise-your-hand-to-ask %284%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Interface-Settings-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Office-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator2-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle-close-128 - Cópia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessman-avatar-with-question-mark %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo [64x64].ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEO_C_50_09.12.14-1_Artboard_22-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seo-and-web-outline-13-03-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2019-12-26-14-25-13--382496899.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Interface-Available-Updates-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progress-arrows %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh~1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guarda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checked %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c079bbd5e84542a8c798db559e9a5791.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icne\icons8_login.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

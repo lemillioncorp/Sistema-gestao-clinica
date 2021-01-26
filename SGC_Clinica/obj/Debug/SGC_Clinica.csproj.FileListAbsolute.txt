@@ -1,0 +1,91 @@
+c:\users\familia tavares\documents\visual studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe.config
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.pdb
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.span.resources
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Properties.Resources.resources
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csproj.GenerateResource.Cache
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.exe
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.pdb
+C:\Users\Familia Tavares\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Inicial_Clinica.resources
+C:\Users\Familia Tavares\documents\visual studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.modeloCadastro.resources
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe.config
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.exe
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.pdb
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.pdb
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\System.Data.SqlServerCe.dll
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csprojResolveAssemblyReference.cache
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.span.resources
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Configuracao_BD.resources
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Exame_simples.resources
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Inicial_Clinica.resources
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.modeloCadastro.resources
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Properties.Resources.resources
+C:\vs_studio\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csproj.GenerateResource.Cache
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe.config
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.exe
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.pdb
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csprojResolveAssemblyReference.cache
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.span.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Configuracao_BD.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Exame_simples.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Inicial_Clinica.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.modeloCadastro.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Properties.Resources.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csproj.GenerateResource.Cache
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.pdb
+C:\projects\SGC_Clinica\SGC_Clinica\bin\Debug\System.Data.SqlServerCe.dll
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Cadastro_Funcionario.resources
+C:\projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Consulta.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe.config
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.exe
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.pdb
+C:\csharp\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe
+C:\csharp\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.pdb
+C:\csharp\SGC_Clinica\SGC_Clinica\bin\Debug\System.Data.SqlServerCe.dll
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csprojResolveAssemblyReference.cache
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.span.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Cadastro_Funcionario.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Configuracao_BD.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Consulta.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Exame_simples.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Inicial_Clinica.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.modeloCadastro.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Properties.Resources.resources
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csproj.GenerateResource.Cache
+C:\csharp\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Consulta_cargo.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe.config
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.exe
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.pdb
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.pdb
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.span.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Cadastro_Funcionario.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Configuracao_BD.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Consulta_cargo.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Consulta.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Exame_simples.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Inicial_Clinica.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.modeloCadastro.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Properties.Resources.resources
+C:\Users\Família\OneDrive\3#CST\Gestor de Projetos\Desktop\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csproj.GenerateResource.Cache
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe.config
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.exe
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\bin\Debug\SGC_Clinica.pdb
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.span.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Cadastro_Funcionario.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Configuracao_BD.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Consulta_cargo.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Consulta.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Frm_Exame_simples.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Inicial_Clinica.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.login.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.modeloCadastro.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.Properties.Resources.resources
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csproj.GenerateResource.Cache
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.exe
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.pdb
+C:\Users\STAIN\Documents\Visual Studio 2015\Projects\SGC_Clinica\SGC_Clinica\obj\Debug\SGC_Clinica.csprojResolveAssemblyReference.cache
